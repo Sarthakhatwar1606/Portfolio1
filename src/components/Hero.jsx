@@ -189,7 +189,7 @@ export default function Hero() {
                 {/* For Mobile */}
                 <Box sx={{ display: { xs: 'flex', md: 'none' }, gap: 2 }}>
                   <Button
-                    href="https://linkedin.com/in/hetvi-joshi"
+                    href="https://linkedin.com/in/Sarthakhatwar1606"
                     target="_blank"
                     startIcon={<LinkedInIcon />}
                     sx={{
@@ -209,7 +209,7 @@ export default function Hero() {
                   </Button>
 
                   <Button
-                    href="https://github.com/hetvijoshi"
+                    href="https://github.com/Sarthakhatwar1606"
                     target="_blank"
                     startIcon={<GitHubIcon />}
                     sx={{

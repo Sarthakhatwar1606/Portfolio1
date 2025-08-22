@@ -1,33 +1,33 @@
 export async function generateMetadata() {
   return {
-    title: 'Hetvi Joshi | Software Engineer | Full Stack Developer',
+    title: 'Sarthak Hatwar | Software Engineer | Full Stack Developer',
     description: 'Crafting robust and scalable software solutions with precision and innovation.',
-    keywords: 'Hetvi Joshi, Software Engineer, Frontend Developer, Backend Developer, Full Stack Developer, Portfolio',
+    keywords: 'Sarthak Hatwar, Software Engineer, Frontend Developer, Backend Developer, Full Stack Developer, Portfolio',
     openGraph: {
-      title: 'Hetvi Joshi - Software Engineer',
+      title: 'Sarthak Hatwar - Software Engineer',
       description: 'Crafting robust and scalable software solutions with precision and innovation.',
       images: ['/portfolio/images/my-profile.jpg'],
     },
     alternates: {
-      canonical: 'https://hetvijoshi.com',
+      canonical: 'https://sarthakhatwar1606.github.io/portfolio/',
     },
     robots: {
       index: true,
       follow: true,
     },
     other: {
-      'application-name': 'Hetvi Joshi Portfolio',
+      'application-name': 'Sarthak Hatwar Portfolio',
     },
     jsonLd: {
       '@context': 'https://schema.org',
       '@type': 'Person',
-      name: 'Hetvi Joshi',
-      jobTitle: 'Software Engineer',
-      url: 'https://hetvijoshi.com',
+      name: 'Sarthak Hatwar',
+      jobTitle: 'Data Engineer',
+      url: 'https://sarthakhatwar1606.github.io/portfolio/',
       image: '/portfolio/images/my-profile.jpg',
       sameAs: [
-        'https://linkedin.com/in/hetvi-joshi',
-        'https://github.com/hetvijoshi'
+        'https://www.linkedin.com/in/sarthakhatwar1606/',
+        'https://github.com/sarthakhatwar'
       ]
     }
   };

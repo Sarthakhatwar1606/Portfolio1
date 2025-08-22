@@ -120,7 +120,7 @@ export default function Contact() {
           >
             <EmailIcon sx={{ color: '#4C6FFF' }} />
             <Link
-              href="mailto:hetvijoshi510@gmail.com"
+              href="mailto:Sarthakhatwar1606@gmail.com"
               sx={{
                 textDecoration: 'none',
                 color: '#4C6FFF',

@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://hetvijoshi.com';
+  const baseUrl = 'https://sarthakhatwar1606.github.io/portfolio/';
 
   return [
     {
