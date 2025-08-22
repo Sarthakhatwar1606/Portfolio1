@@ -337,7 +337,7 @@ export default function Hero() {
               }}
             >
               <Image
-                src="/Portfolio1/images/my-profile.png"
+                src="/portfolio/images/my-profile.png"
                 alt="Sarthak  "
                 fill
                 style={{
