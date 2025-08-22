@@ -1,3 +1,5 @@
+import { px } from "framer-motion";
+
 export const aboutStyles = {
   section: { py: 8 },
   mainTitle: {
@@ -132,6 +134,7 @@ export const aboutStyles = {
     display: 'flex',
     flexWrap: 'wrap',
     gap: 1,
+    marginTop: "12px",
   },
   skillChip: {
     borderRadius: '12px',

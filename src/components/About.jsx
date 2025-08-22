@@ -10,6 +10,7 @@ import BuildIcon from '@mui/icons-material/Build';
 import SchoolIcon from '@mui/icons-material/School';
 import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import ChartIcon from '@mui/icons-material/BarChart';
 import { aboutStyles } from './styles/AboutStyles';
 
 const education = [
@@ -64,8 +65,8 @@ const skills = [
     {
     category: 'Visualisation',
     items: ['Tableau', 'PowerBI', 'Excel', 'Matplot','R','Seaborn','Matlab'],
-    icon: <GoogleIcon sx={{ fontSize: 40, color: '#4285F4' }} />,
-    gradient: 'linear-gradient(135deg, #4285F4 0%, #0D47A1 100%)',
+    icon: <ChartIcon sx={{ fontSize: 40, color: '#8B5CF6' }} />,
+    gradient: 'linear-gradient(135deg,rgb(184, 36, 36) 0%,rgba(94, 10, 10, 0.9) 100%)',
   },
   
   {
