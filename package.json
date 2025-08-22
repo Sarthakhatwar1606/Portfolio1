@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-
     "build": "next build",
     "postbuild": "shx touch out/.nojekyll",
     "predeploy": "npm run build && npm run postbuild",
@@ -23,6 +22,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-intersection-observer": "^9.13.1",
+    "shx": "^0.4.0",
     "typewriter-effect": "^2.22.0"
   },
   "devDependencies": {

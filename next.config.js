@@ -2,8 +2,8 @@
 const isProd = process.env.NODE_ENV === "production";
 
 module.exports = {
-  basePath: isProd ? "/sarthak-final" : "",
-  assetPrefix: isProd ? "/sarthak-final/" : "",
+  basePath: isProd ? "/Portfolio1" : "",
+  assetPrefix: isProd ? "/Portfolio1/" : "",
   output: "export",
   trailingSlash: true,
   images: {
